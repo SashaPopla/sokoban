@@ -1,0 +1,11 @@
+E:\sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+E:\sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+E:\sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.AssemblyReference.cache
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.WalcomeForm.resources
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.cache
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.CoreCompileInputs.cache
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+E:\sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.LabirintForm.resources

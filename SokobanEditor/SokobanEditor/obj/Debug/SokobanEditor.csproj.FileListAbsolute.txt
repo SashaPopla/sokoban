@@ -1,0 +1,10 @@
+E:\sokoban\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.exe.config
+E:\sokoban\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.exe
+E:\sokoban\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.pdb
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csproj.AssemblyReference.cache
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.Properties.Resources.resources
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csproj.GenerateResource.cache
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csproj.CoreCompileInputs.cache
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.exe
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.pdb
+E:\sokoban\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.SokobanEditor.resources
